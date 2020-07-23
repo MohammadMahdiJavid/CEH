@@ -1,3 +1,5 @@
+*** WRONG ANSWER ***
+
 Non-authoritative answer:
 mail.yahoo.com  canonical name = edge.gycpi.b.yahoodns.net
 
