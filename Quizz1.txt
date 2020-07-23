@@ -1,0 +1,41 @@
+1- Device that uses MAC address for packet tracing (Switch) is in which layer ?
+>>> layer 2
+
+2- SSL is used in which port ?
+>>> 443
+
+3- Hub (multi port repeater) is used in which layer ?
+>>> layer 1 (physical)
+
+4- TCP connection ?
+>>> SYN >>> SYN-ACK >>> ACK
+
+5- unusual traffic in the network who can detect this ?
+>>> IDS >>> device or software application that monitors a network or systems for malicious activity or policy violations.
+
+6- one public IP - too many clients internally no one can know their client ip address externally ?
+>>> NAT
+
+7- EMAIL port ?
+>>> SMTP
+
+8- gaining attentions ?
+>>> Hacktivist
+
+9- Ethical Hacker first asks for ?
+>>> permission
+
+10- Hacker that would do it no matter what >
+>>> sucide hacker >>> a hacker who hacks for the sake of destruction. Much like a suicide bomber
+
+11- sometimes Ethical and sometimes malicious things ?
+>>> Gray hat hacker
+
+12- Vulnerability meaning ?
+>>> weakness
+
+13- Black-Box Testing ?
+>>> you have no knowledge about the target
+
+14- Contract for hacking a system, what type of hacker you are ?
+>>> white hat

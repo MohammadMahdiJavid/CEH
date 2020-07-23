@@ -1,0 +1,29 @@
+1- which one is not used in footprinting ?
+>>> port scanning
+
+2- Social engineering uses ?
+>>> gain info about people
+
+3- how we can gain info about software and harfware used in company ?
+>>> Job positions 
+
+4- define: wayback machine ?
+>>> archived versions of websites (old version of the website)
+
+5- DNS record that has email server info ?
+>>> MX (Mail Exchange)
+
+6- Footprinting is done what is the next step ?
+>>> Network Scanning
+
+7- if we could't gain info directly ?
+>>> opponent - competitors of this company
+
+8- in footprinting we can't gain info about ?
+>>> processes in the company 
+
+9- Footprinting parts ?
+>>> ACTIVE / PASSIVE
+
+10- packet tracing command ?
+>>> tracert (traceroute)
