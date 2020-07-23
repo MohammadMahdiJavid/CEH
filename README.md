@@ -1,2 +1,2 @@
 # CEH
-CEH OR Jado OR maktabkhooneh.org
+CEH OR Jadi OR maktabkhooneh.org
