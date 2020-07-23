@@ -1,0 +1,11 @@
+Non-authoritative answer:
+mail.yahoo.com  canonical name = edge.gycpi.b.yahoodns.net
+
+gycpi.b.yahoodns.net
+        primary name server = yf1.yahoo.com
+        responsible mail addr = hostmaster.yahoo-inc.com
+        serial  = 1595487242
+        refresh = 30 (30 secs)
+        retry   = 30 (30 secs)
+        expire  = 86400 (1 day)
+        default TTL = 300 (5 mins)
