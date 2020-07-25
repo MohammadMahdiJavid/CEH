@@ -1,0 +1,29 @@
+1- which one is used for banner grabbing ?
+Telnet
+
+2- finding webserver OS ?
+netcraft
+
+3- which one is not TCP packet flag ? 
+END
+
+4- SYN attack protocol ?
+TCP
+
+5- attack with FIN flag which response shows that the port is closed ?
+RST
+
+6- TCP Half-Open differences with TCP 3ways Hand-Shaking ?
+No ACK at the end
+
+7- ICMP echo scan ?
+a ping sweep
+
+8- why to use proxy ?
+hiding IP
+
+9- special banner uses in scanning ?
+finding special service
+
+10- Nmap uses ?
+port scaning
