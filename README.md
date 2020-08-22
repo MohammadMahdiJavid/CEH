@@ -1,4 +1,4 @@
-<img src="icon.png" width="10%" height="auto" alt="jadi CEH" align="right" />
+<img src="icon.png" width="30%" height="auto" alt="jadi CEH" align="right" />
 
 # CEH (Maktabkhooneh)
 
@@ -17,13 +17,13 @@ I've Uploaded My soloutions to the questions and Quizzes. taught by Jadi
 
 ## References
 
-[[1] CEH - Jadi](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%87%DA%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%85%D9%86%D8%AF-CEH-mk641/)
+- [[1] CEH - Jadi](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%87%DA%A9-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%85%D9%86%D8%AF-CEH-mk641/)
 
 ## Contact
 
-[[1] LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-javid/)
+- [[1] LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-javid/)
 
-[[2] My Personal Website](http://mahdi-javid.github.io/)
+- [[2] My Personal Website](http://mahdi-javid.github.io/)
 
 ## Thanks For Reading
 
