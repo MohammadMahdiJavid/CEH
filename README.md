@@ -22,7 +22,12 @@ I've Uploaded My soloutions to the questions and Quizzes. taught by Jadi
 ## Contact
 
 [[1] LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-javid/)
+
 [[2] My Personal Website](http://mahdi-javid.github.io/)
+
+## Thanks For Reading
+
+_If you find these useful, make sure to star:star: the repo to let me know you appreciate it :) All the best for your certification!_
 
 ## License
 
