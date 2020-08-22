@@ -1,9 +1,9 @@
 <img src="icon.png" align="right" />
 
-# CEH (Maktabkhooneh)(https://github.com/mahdi-javid/CEH)
+# CEH (Maktabkhooneh)
 
 ![Last update](https://img.shields.io/badge/last%20update-22%20August%202020-green.svg?style=flat-square)
-[![Chat with me](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92%20-brightgreen.svg?style=flat-square)](#Contact)
+
 I've Uploaded My soloutions to the questions and Quizzes. taught by Jadi
 
 ## Contents
