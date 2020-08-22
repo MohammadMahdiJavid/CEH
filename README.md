@@ -1,4 +1,4 @@
-<img style="width: 25%;" src="icon.png" align="right" />
+<img src="icon.png" style="width: 25%; height: auto; display: inline-block;" alt="jadi CEH" align="right" />
 
 # CEH (Maktabkhooneh)
 
