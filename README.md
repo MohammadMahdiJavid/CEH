@@ -1,4 +1,4 @@
-<img style="size: 25%;" src="icon.png" align="right" />
+<img style="width: 25%;" src="icon.png" align="right" />
 
 # CEH (Maktabkhooneh)
 
