@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img style="size: 25%;" src="icon.png" align="right" />
 
 # CEH (Maktabkhooneh)
 
@@ -27,7 +27,9 @@ I've Uploaded My soloutions to the questions and Quizzes. taught by Jadi
 
 ## Thanks For Reading
 
-_If you find these useful, make sure to star:star: the repo to let me know you appreciate it :) All the best for your certification!_
+_If you find these useful, make sure to star:star: the repo to let me know you appreciate it :)_
+
+_All the best throughout your journey to the certification!_
 
 ## License
 
