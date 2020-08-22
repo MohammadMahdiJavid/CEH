@@ -3,7 +3,7 @@
 # CEH (Maktabkhooneh)(https://github.com/mahdi-javid/CEH)
 
 ![Last update](https://img.shields.io/badge/last%20update-22%20August%202020-green.svg?style=flat-square)
-[![Join the chat at https://gitter.im/teles/awesome-seo](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92%20-brightgreen.svg?style=flat-square)](https://gitter.im/teles/awesome-seo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Chat with me](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92%20-brightgreen.svg?style=flat-square)](#Contact)
 I've Uploaded My soloutions to the questions and Quizzes. taught by Jadi
 
 ## Contents
