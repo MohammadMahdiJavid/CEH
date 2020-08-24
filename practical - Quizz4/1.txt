@@ -1,0 +1,6 @@
+admin, admin
+gordonb, abc123
+1337, charley
+pablo, letmein
+smithy, password
+user, user
