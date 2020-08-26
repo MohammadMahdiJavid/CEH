@@ -1,0 +1,6 @@
+MAC1 = 00:23:cd:1f:73:b0, SSID=WirelessLab
+MAC2 = dc:53:60:55:13:e2
+PASS = MYKEY
+EAPOL
+====================
+dictionary
