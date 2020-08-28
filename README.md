@@ -2,7 +2,7 @@
 
 # CEH (Maktabkhooneh)
 
-![Last update](https://img.shields.io/badge/last%20update-22%20August%202020-green.svg?style=flat-square)
+![Last update](https://img.shields.io/badge/last%20update-28%20August%202020-green.svg?style=flat-square)
 
 ## MyScore : 91.3/100
 
