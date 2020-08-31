@@ -15,7 +15,7 @@ I've Uploaded My soloutions to the questions and Quizzes. taught by Jadi
 
 ## Certificate
 
-- [Verified Certificate]()
+- [Verified Certificate](https://www.linkedin.com/in/mohammad-mahdi-javid/)
 
 ## References
 
@@ -47,7 +47,7 @@ _All the best throughout your journey to the certification!_
 
 ## License
 
-MIT © [Diego Haz](https://github.com/mahdi-javid)
+MIT © [MohammadMahdi Javid](https://github.com/mahdi-javid)
 
 ## KeyWords
 
