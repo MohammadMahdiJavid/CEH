@@ -15,7 +15,7 @@ I've Uploaded My soloutions to the questions and Quizzes. taught by Jadi
 
 ## Certificate
 
-- [Verified Certificate](https://www.linkedin.com/in/mohammad-mahdi-javid/)
+- [Verified Certificate](https://www.linkedin.com/in/mohammadmahdijavid/)
 
 ## References
 
@@ -35,9 +35,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## Contact
 
-- [[1] LinkedIn](https://www.linkedin.com/in/mohammad-mahdi-javid/)
+- [[1] LinkedIn](https://www.linkedin.com/in/mohammadmahdijavid/)
 
-- [[2] My Personal Website](http://mahdi-javid.github.io/)
+- [[2] My Personal Website](http://mohammadmahdijavid.ir/)
 
 ## Thanks For Reading
 
@@ -47,7 +47,7 @@ _All the best throughout your journey to the certification!_
 
 ## License
 
-MIT © [MohammadMahdi Javid](https://github.com/mahdi-javid)
+MIT © [MohammadMahdi Javid](https://github.com/mohammadmahdijavid)
 
 ## KeyWords
 
